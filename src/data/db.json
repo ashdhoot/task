@@ -1,0 +1,268 @@
+{
+  "customers": [
+    {
+      "name": "IT User",
+      "state": "Maharashtra",
+      "source": "Add by Admin",
+      "addedBy": "Ramesh",
+      "date": "30-3-2020",
+      "typeset": "Sales Guys",
+      "numbers": "100",
+      "details": "info",
+      "id": "2"
+    },
+    {
+      "name": "Sales Team",
+      "state": "Maharashtra",
+      "source": "Add by Admin",
+      "addedBy": "Ramesh",
+      "date": "30-3-2020",
+      "typeset": "Sales Guys",
+      "numbers": "50",
+      "details": "info",
+      "id": "7"
+    },
+    {
+      "name": "Sales Team",
+      "state": "Maharashtra",
+      "source": "Add by Admin",
+      "addedBy": "Kulkarni",
+      "date": "30-3-2020",
+      "typeset": "Sales Guys",
+      "numbers": "450",
+      "details": "info",
+      "id": "8"
+    },
+    {
+      "name": "Sales Team",
+      "state": "Maharashtra",
+      "source": "Add by Admin",
+      "addedBy": "Ramesh",
+      "date": "30-3-2020",
+      "typeset": "Marathi Users",
+      "numbers": "50",
+      "details": "info",
+      "id": "10"
+    },
+    {
+      "name": "Sales Team",
+      "state": "Maharashtra",
+      "source": "Add by Admin",
+      "addedBy": "Kulkarni",
+      "date": "30-3-2020",
+      "typeset": "Marathi Users",
+      "numbers": "50",
+      "details": "info",
+      "id": "11"
+    },
+    {
+      "name": "Sales Team",
+      "state": "Maharashtra",
+      "source": "Add by Admin",
+      "addedBy": "Ramesh",
+      "date": "30-3-2020",
+      "typeset": "Marathi Users",
+      "numbers": "50",
+      "details": "info",
+      "id": "15"
+    },
+    {
+      "name": "Sales Team",
+      "state": "Maharashtra",
+      "source": "Add by Admin",
+      "addedBy": "Ramesh",
+      "date": "30-3-2020",
+      "typeset": "Marathi Users",
+      "numbers": "50",
+      "details": "info",
+      "id": "17"
+    },
+    {
+      "name": "Sales Team",
+      "state": "Maharashtra",
+      "source": "Add by Admin",
+      "addedBy": "Ramesh",
+      "date": "30-3-2020",
+      "typeset": "Marathi Users",
+      "numbers": "50",
+      "details": "info",
+      "id": "18"
+    },
+    {
+      "name": "Sales Team",
+      "state": "Maharashtra",
+      "source": "Add by Admin",
+      "addedBy": "Ramesh",
+      "date": "30-3-2020",
+      "typeset": "Marathi Users",
+      "numbers": "50",
+      "details": "info",
+      "id": "19"
+    },
+    {
+      "name": "Sales Team",
+      "state": "Maharashtra",
+      "source": "Add by Admin",
+      "addedBy": "Ramesh",
+      "date": "30-3-2020",
+      "typeset": "Sales Guys",
+      "numbers": "50",
+      "details": "info",
+      "id": "20"
+    },
+    {
+      "name": "Sales Team",
+      "state": "Maharashtra",
+      "source": "Add by Admin",
+      "addedBy": "Ramesh",
+      "date": "30-3-2020",
+      "typeset": "Sales Guys",
+      "numbers": "50",
+      "details": "info",
+      "id": "21"
+    },
+    {
+      "name": "Sales Team",
+      "state": "Maharashtra",
+      "source": "Add by Admin",
+      "addedBy": "Ramesh",
+      "date": "30-3-2020",
+      "typeset": "Sales Guys",
+      "numbers": "50",
+      "details": "info",
+      "id": "22"
+    },
+    {
+      "name": "Sales Team",
+      "state": "Maharashtra",
+      "source": "Add by Admin",
+      "addedBy": "Ramesh",
+      "date": "30-3-2020",
+      "typeset": "Sales Guys",
+      "numbers": "50",
+      "details": "info",
+      "id": "23"
+    },
+    {
+      "name": "Sales Team",
+      "state": "Maharashtra",
+      "source": "Add by Admin",
+      "addedBy": "Ramesh",
+      "date": "30-3-2020",
+      "typeset": "Marathi Users",
+      "numbers": "50",
+      "details": "info",
+      "id": "24"
+    },
+    {
+      "name": "Sales Team",
+      "state": "Maharashtra",
+      "source": "Add by Admin",
+      "addedBy": "Ramesh",
+      "date": "30-3-2020",
+      "typeset": "Marathi Users",
+      "numbers": "50",
+      "details": "info",
+      "id": "25"
+    },
+    {
+      "name": "Sales Team",
+      "state": "Maharashtra",
+      "source": "Add by Admin",
+      "addedBy": "Ramesh",
+      "date": "30-3-2020",
+      "typeset": "Sales Guys",
+      "numbers": "50",
+      "details": "info",
+      "id": "26"
+    },
+    {
+      "name": "Sales Team",
+      "state": "Maharashtra",
+      "source": "Add by Admin",
+      "addedBy": "Ramesh",
+      "date": "30-3-2020",
+      "typeset": "Sales Guys",
+      "numbers": "50",
+      "details": "info",
+      "id": "27"
+    },
+    {
+      "name": "Sales Team",
+      "state": "Maharashtra",
+      "source": "Add by Admin",
+      "addedBy": "Ramesh",
+      "date": "30-3-2020",
+      "typeset": "Sales Guys",
+      "numbers": "50",
+      "details": "info",
+      "id": "28"
+    },
+    {
+      "name": "Sales Team",
+      "state": "Maharashtra",
+      "source": "Add by Admin",
+      "addedBy": "Kulkarni",
+      "date": "30-3-2020",
+      "typeset": "Marathi Users",
+      "numbers": "250",
+      "details": "info",
+      "id": "29"
+    },
+    {
+      "name": "Sales Team",
+      "state": "Maharashtra",
+      "source": "Add by Admin",
+      "addedBy": "Ramesh",
+      "date": "30-3-2020",
+      "typeset": "Sales Guys",
+      "numbers": "50",
+      "details": "info",
+      "id": "30"
+    },
+    {
+      "name": "fxvcfbvgb",
+      "state": "fvfcvbcb",
+      "source": "hjmjhb",
+      "addedBy": "hmjbm",
+      "date": "2022-01-01",
+      "typeset": "vbnvhnvb",
+      "numbers": "789",
+      "detail": "info",
+      "id": "I8XsfsT"
+    },
+    {
+      "name": "comp  team",
+      "state": "Gujarat",
+      "source": "Aish",
+      "addedBy": "Added by admin",
+      "date": "2021-12-28",
+      "typeset": "IT",
+      "numbers": "400",
+      "details": "info",
+      "id": "lpGaidp"
+    },
+    {
+      "name": "Aish",
+      "state": "sdcdxcx",
+      "source": "vcvc c",
+      "addedBy": "vbvbv",
+      "date": "2022-01-06",
+      "typeset": "IT",
+      "numbers": "340",
+      "details": "info",
+      "id": "-Rx8gCW"
+    },
+    {
+      "name": "Marketing",
+      "state": "Maharashtra",
+      "source": "Add By Admin",
+      "addedBy": "Diya",
+      "date": "2021-12-30",
+      "typeset": "Marketing Gyus",
+      "numbers": "456",
+      "details": "info",
+      "id": "bdboebJ"
+    }
+  ]
+}
