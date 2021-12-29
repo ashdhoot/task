@@ -29,14 +29,14 @@ const ProspectSet = () => {
       customer.typeset.toLowerCase().match(search.toLowerCase())
     );
     setPaginatedPosts([...data]);
-  }, [search]);
+  }, [search]); //search by set type
 
   const pageCount = customers ? Math.ceil(customers.length / pageSize) : 0;
 
   if (pageCount === 1) {
     return null;
   }
-  const pages = _.range(1, pageCount + 1);
+  const pages = _.range(1, pageCount + 1); //pagination
 
   const pagination = (pageNo) => {
     setCurrentPage(pageNo);
